@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AK 47 Custom Garage</title>
+    <style>
+        body {
+            background-color: #1b1b1b;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            padding: 0 20px;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .project {
+            border: 1px solid #444;
+            padding: 20px;
+            margin-bottom: 20px;
+            background-color: #222;
+        }
+
+        footer {
+            background-color: #333;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        /* Add any additional styles or customizations here */
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AK 47 Custom Garage</h1>
+    </header>
+    <div class="container">
+        <p>AK Custom Garage is a dynamic father-son duo passionate about building street rods, motorcycles, and muscle cars. We invite you to explore our world of automotive craftsmanship and get a glimpse of the exciting projects we're working on.</p>
+    </div>
+    <div class="project">
+        <h2>Latest Project: [Project Name]</h2>
+        <p>Description of the project and its unique features. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut nisl nec mauris tincidunt elementum.</p>
+        <p>See more photos and details in our <a href="#">gallery</a>.</p>
+    </div>
+    <div class="project">
+        <h2>Upcoming Event: [Event Name]</h2>
+        <p>Join us for an exclusive showcase of our latest builds and meet fellow enthusiasts. Save the date and stay tuned for more information!</p>
+        <p>Event details and registration coming soon.</p>
+    </div>
+    <footer>
+        &copy; 2023 AK 47 Custom Garage. All rights reserved.
+    </footer>
+</body>
+</html>
